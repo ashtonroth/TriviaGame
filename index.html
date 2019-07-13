@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Office Trivia</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <img src="assets/images/dundermifflin.png" class="img-fluid text-center" height="200" width="300" id="main-logo" alt="office logo">
+        <h1 class="display-3">The Office Trivia Game</h1>
+        <hr>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-3">
+        <img src="assets/images/theoffice.png" class="img-fluid text-center" height="400" width="400" id="office logo">
+        <div>
+          <h3 id="timer"></h3>
+        </div>
+      </div>
+
+      <div class="offset-md-1"></div>
+
+      <div class="col-md-8">
+        <div id="start-page" class="start-page-text">
+          <h2>Get ready to play</h2>
+          <p>Test your knowledge of <i>The Office</i> with this multiple choice trivia game. You have 60 seconds to answer all the questions and the game ends automatically when time has elapsed. Good luck!</p>
+          <div class="btn btn-primary" id="start-button">Start
+          </div>
+        </div>
+
+      <div>
+        <div id="questions-box">
+        </div>
+      </div>
+
+        <div class="hidden" id="end-page">
+          <h2>Here are your scores:</h2>
+          <p id="correct-answers"></p>
+          <p id="incorrect-answers"></p>
+          <p id="unanswered"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container-fluid">
+      <hr>
+      <span class="text-center">
+        <p>&copy; Copyright 2019 Ashton Roth</p>
+        
+      </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/javascript/app.js"></script>
+</body>
+</html>

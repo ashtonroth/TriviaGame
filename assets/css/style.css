@@ -1,0 +1,79 @@
+body {
+    background-image: url("https://images3.alphacoders.com/704/thumb-1920-704591.jpg");
+    ; 
+  }
+  
+  #end-page {
+    display: none;
+  }
+  
+  #main-logo {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: 100% \9;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+     color: yellow ; 
+     font-weight: bold ; 
+      opacity: 0.8;
+
+  }
+  h2 {
+      font-weight: bold ; 
+      
+  }
+p {
+    font-weight: bold; 
+    
+}
+ 
+  label {
+    font-size: 16px;
+    color: white ;
+  }
+ 
+#start-page {
+    background-color: whitesmoke; 
+    opacity: 0.7; 
+    border-radius: 50px ; 
+    text-align: center; 
+  
+
+
+
+}
+  
+  #end-page p {
+    font-size: 20px;
+    
+    /* font-weight: 700; */
+  }
+  
+  #correct-answers {
+    margin-top: 32px;
+  }
+  
+  #question {
+    margin-top: 32px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  footer {
+    height: 30px;
+    margin-top: 30px;
+  }
+  
+  #copyright-small {
+    font-size: 12px;
+  }
+  
+  #timer {
+    margin-top: 20px;
+  }
+  
+  #done-button {
+    margin-top: 20px;
+  }
