@@ -130,7 +130,7 @@ $(document).ready(function(){
       correct: "Dwight Impersonator"
     },
     {
-      question: "Who sent Dwight a fax",
+      question: "Who sent Dwight a fax?",
       answers: ["The FBI", "Future Dwight", "Jim"],
       correct: "Future Dwight"
     },
