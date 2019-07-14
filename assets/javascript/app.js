@@ -130,33 +130,33 @@ $(document).ready(function(){
       correct: "Dwight Impersonator"
     },
     {
-      question: "When the Simpsons move to a farm, what plant do they grow and sell at a roadside stand?",
-      answers: ["carrots and peas", "a cross of tomatoes and tobacco", "gummy bears"],
-      correct: "a cross of tomatoes and tobacco"
+      question: "Who sent Dwight a fax",
+      answers: ["The FBI", "Future Dwight", "Jim"],
+      correct: "Future Dwight"
     },
     {
-      question: "Which character that Homer voiced was added to, and promptly killed off, on the Itchy and Scratchy Show?",
-      answers: ["Poochie", "Max Power", "Kang"],
-      correct: "Poochie"
+      question: "How many years were Pam and Roy engaged?",
+      answers: ["a millenia", "5 years", "3 years"],
+      correct: "3 years"
     },
     {
-      question: "When child protective services removes the Simpson kids, which family fosters them?",
-      answers: ["Flanders", "Van Houten", "Smithers"],
-      correct: "Flanders"
+      question: "Who wrote Jan's favorite song,'Take Me By the Hand?'",
+      answers: ["Andy", "Hunter", "Ryan"],
+      correct: "Ryan"
     },
     {
-      question: "When Marge starts a business after attending a franchise fair, what is her company?",
-      answers: ["Fleet-a-Pita", "Flancrest Enterprises", "Pretzel Wagon"],
-      correct: "Pretzel Wagon"
+      question: "Who taught Michael the cool phrase'pippity poppity, gimme the zoppity?'",
+      answers: ["Jim", "Oscar", "Darryl"],
+      correct: "Darryl"
     },
     {
-      question: "What dish does Lisa make for Homer's BBBQ backyard barbecue?",
-      answers: ["salad", "gazpacho", "lamb chops"],
-      correct: "gazpacho"
+      question: "What does Kevin cook and consequently spill all over the floor?",
+      answers: ["a pot of beans", "a rack of lamb", "chocolate pudding"],
+      correct: "a pot of beans"
     },
     {
-      question: "What is Principal Seymour Skinner's real name?",
-      answers: ["Troy McClure", "Gary Chalmers","Armin Tamzarian"],
-      correct: "Armin Tamzarian"
+      question: "Who knows The Office best?",
+      answers: ["Ashton", "Shoe","Ashton again"],
+      correct: "Ashton"
     }
   ]
